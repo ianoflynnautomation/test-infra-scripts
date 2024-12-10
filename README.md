@@ -1,2 +1,2 @@
 # test-infra-scripts
-Helpful script used for building tst infra pipelines
+Helpful scripts used for building test infra pipelines
